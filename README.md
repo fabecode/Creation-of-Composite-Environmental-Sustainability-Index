@@ -1,5 +1,5 @@
 # Creation-of-Composite-Environmental-Sustainability-Index
-Creation of a Composite Environmental Sustainability Index as an Indicator of a Country’s Economic Performance (Y2 University Group Project)
+Creation of a Composite Environmental Sustainability Index as an Indicator of a Country’s Economic Performance
 
 Environmental sustainability has increasingly become an integral part of economic development for countries. According to the World Economic Forum’s Global Risk Report 2020, the top five business risks were all linked to environmental challenges such as extreme weather events. With the effects of climate change impacting countries globally, a country’s competitiveness has become inextricably linked with the effectiveness of their long-term sustainability strategies.
 
